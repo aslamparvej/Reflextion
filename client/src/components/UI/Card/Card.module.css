@@ -1,0 +1,7 @@
+.card{
+    width: 20rem;
+    height: 20rem;
+    background-color: beige;
+    border-radius: 2rem;
+    filter: drop-shadow(5px 5px 10px #000);
+}
